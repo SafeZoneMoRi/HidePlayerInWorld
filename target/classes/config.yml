@@ -1,0 +1,4 @@
+# Worlds where players should NOT see each other.
+# Example: ["world_hide", "arena"]
+hidden-worlds:
+  - login

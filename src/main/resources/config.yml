@@ -1,0 +1,6 @@
+##hidden-worlds:
+#  - world
+hidden-worlds:
+  - world
+  - world_nether
+  - world_end
